@@ -1,0 +1,6 @@
+[submodule "practice-blog-project"]
+	path = practice-blog-project
+	url = ./card
+[submodule "card"]
+	path = card
+	url = ./card
