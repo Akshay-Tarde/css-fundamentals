@@ -3,4 +3,7 @@
 	url = ./card
 [submodule "card"]
 	path = card
-	url = ./card
+	url = https://github.com/Akshay-Tarde/card.git
+[submodule "practice-blog-post"]
+	path = practice-blog-post
+	url = https://github.com/Akshay-Tarde/practice-blog-post.git
