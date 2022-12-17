@@ -29,5 +29,18 @@ h2 {
 strong {}
 
 .accent {
-    color: yellow;
+    color: #FFE600;
+}
+
+a {
+    color: #ffe600;
+}
+
+a:focus,
+a:hover {
+    color: aquamarine;
+}
+
+a:active {
+    color: tomato;
 }
