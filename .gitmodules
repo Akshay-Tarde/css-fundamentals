@@ -9,4 +9,4 @@
 	url = https://github.com/Akshay-Tarde/practice-blog-post.git
 [submodule "css-fundamentals-final"]
 	path = css-fundamentals-final
-	url = ./css-fundamentals-final
+	url = https://github.com/Akshay-Tarde/css-fundamentals-final.git
